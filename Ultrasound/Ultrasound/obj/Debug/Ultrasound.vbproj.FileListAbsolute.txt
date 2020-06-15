@@ -1,0 +1,12 @@
+D:\VB\Ultrasound\Ultrasound\bin\Debug\Ultrasound.exe.config
+D:\VB\Ultrasound\Ultrasound\bin\Debug\Ultrasound.exe
+D:\VB\Ultrasound\Ultrasound\bin\Debug\Ultrasound.pdb
+D:\VB\Ultrasound\Ultrasound\bin\Debug\Ultrasound.xml
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.vbprojAssemblyReference.cache
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.Form1.resources
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.Resources.resources
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.vbproj.GenerateResource.cache
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.exe
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.xml
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.pdb
+D:\VB\Ultrasound\Ultrasound\obj\Debug\Ultrasound.Form2.resources
